@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-size: 12px;
+    font-family: Arial, Helvetica;
 }
 a {
     text-decoration: none;
@@ -278,12 +279,12 @@ header {
 .search a {
     margin-top: 15px;
 }
+
 /*history query*/
 .history-query {
     height: 70px;
     font-size: 12px;
     margin-bottom: 16px;
-
 }
 .history-query>div {
     box-shadow: -1px -1px 1px #dddfe1 ;
