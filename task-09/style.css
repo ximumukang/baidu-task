@@ -58,7 +58,7 @@ header {
     height: 28px;
     border-radius: 12px;
     text-indent: 1em;
-    background: #fff url("./image-task-09/search.png") 17px 5px no-repeat;
+    background: #fff url("image/search.png") 17px 5px no-repeat;
 }
 #login-img {
     vertical-align: middle;
@@ -146,25 +146,25 @@ header {
     padding-left: 33px;
 }
 #personal-report {
-    background: url("./image-task-09/01.png")  content-box 0 10px no-repeat;
+    background: url("image/01.png")  content-box 0 10px no-repeat;
 }
 .not-open {
-    background: url("./image-task-09/not-open.png") content-box 0 10px no-repeat;
+    background: url("image/not-open.png") content-box 0 10px no-repeat;
 }
 .opened {
-    background: url("./image-task-09/opened.png") content-box 0 10px no-repeat;
+    background: url("image/opened.png") content-box 0 10px no-repeat;
 }
 
 .shared {
-    background: url("./image-task-09/03.png")  content-box 0 10px no-repeat;
+    background: url("image/03.png")  content-box 0 10px no-repeat;
 }
 .personal-collection,
 .growth-record,
 .gallery {
-    background: url("./image-task-09/04.png")  content-box 0 10px no-repeat;
+    background: url("image/04.png")  content-box 0 10px no-repeat;
 }
 .account-information {
-    background: url("./image-task-09/05.png")  content-box 0 10px no-repeat;
+    background: url("image/05.png")  content-box 0 10px no-repeat;
 }
 
 /*main*/
@@ -298,10 +298,10 @@ header {
     background: #fff;
 }
 .left {
-    background: #fff url("./image-task-09/left.png") 12px 24px no-repeat;
+    background: #fff url("image/left.png") 12px 24px no-repeat;
 }
 .right {
-    background: #fff url("./image-task-09/right.png") 12px 24px no-repeat;
+    background: #fff url("image/right.png") 12px 24px no-repeat;
 }
 .time-money {
     width: 110px;
@@ -325,7 +325,7 @@ header {
     box-sizing: border-box;
     float: left;
     padding: 16px 10px 16px 61px;
-    background: #fff url("./image-task-09/historyQuery.png") 18px 18px no-repeat;
+    background: #fff url("image/historyQuery.png") 18px 18px no-repeat;
     text-align: center;
     line-height: 32px;
 }
